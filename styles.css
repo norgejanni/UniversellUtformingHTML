@@ -4,19 +4,37 @@ body, html {
     margin: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rosybrown;
+    background-color: aqua;
 }
 
 h1 {
     text-align: center;
+    color: yellow;
 }
 
-.AllQs {
+#AllQs {
     text-align: justify;
     margin: 0 15%;
 }
 
+.Q {
+    border-radius: 15px;
+    padding: 10px;
+    margin: 2% 0;
+    font-weight: 1000;
+}
+
 #Q1 {
     background-color: #12427D;
-    color: #FFA31A;
-    border-radius: 15px;
+    color: #FFA31A;   
+}
+
+#Q2 {
+    background-color: #135833;
+    color: #E7B5E8;
+}
+
+#Q3 {
+    background-color: #E230DB;
+    color: #30E237;
 }
