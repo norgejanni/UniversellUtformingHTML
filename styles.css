@@ -38,3 +38,10 @@ h1 {
     background-color: #E230DB;
     color: #30E237;
 }
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    border-radius: 15px;
+}
